@@ -1,5 +1,6 @@
 # terms-and-contitions
 about the terms and conditions of the do it or don't application
+
 This is an Android application by Devdutt Thakkar. The app is only available on Google Play for now.
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
